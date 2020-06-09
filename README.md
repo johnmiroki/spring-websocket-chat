@@ -11,7 +11,7 @@ Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
 
 ![Spring WebSocket Chat](http://www.sergialmar.com/wp-content/uploads/2014/09/spring-websocket-chat-room.png "Spring WebSocket Chat")
 
-![Video Presentation](https://www.infoq.com/presentations/spring-4-websockets/)
+[Video Presentation](https://www.infoq.com/presentations/spring-4-websockets/)
 
 ## Features
 - Built with Spring Boot
